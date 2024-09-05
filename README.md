@@ -2,7 +2,7 @@
 
 - 👀 Estou interessado em tecnologia, análise de sistemas e tudo que impulsiona os limites da inovação.
 - 🌱 Atualmente, estou aprendendo Python, HTML, CSS, Java, Java Script, serviços em nuvem e aprimorando minhas habilidades em desenvolvimento full-stack.
-- 💞️ Estou buscando colaborar em projetos open-source, desenvolvimento de software e iniciativas de otimização de sistemas.
+- 🤝 Estou buscando colaborar em projetos open-source, desenvolvimento de software e iniciativas de otimização de sistemas.
 - 📫 Entre em contato: eugenioborellineto@gmail.com
 - ⚡ Curiosidade: Coleciono miniaturas de carros clássicos e memorabilia de ficção científica.
 
