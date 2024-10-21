@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Eugenio Borelli
 
-- 👀 Estou interessado em tecnologia, análise de sistemas e tudo que impulsiona os limites da inovação.
+- 👀 Estou interessado em tecnologia, análise de sistemas, infraestrutura e tudo que impulsiona os limites da inovação.
 - 🌱 Atualmente, estou aprendendo HTML, CSS, Java Script, React, Python serviços em nuvem e aprimorando minhas habilidades em desenvolvimento.
 - 🤝 Estou buscando colaborar em projetos open-source, desenvolvimento de software e iniciativas de otimização de sistemas.
 - 📫 Entre em contato: eugenioborellineto@gmail.com
@@ -27,5 +27,3 @@ Tenho experiência em diversas áreas, incluindo:
 - **Soft Skills**: Empatia, resolução de problemas, trabalho em equipe, flexibilidade, resiliência, comunicação eficaz, criatividade
 
 ---
-
-Vamos nos conectar e construir algo incrível juntos!
